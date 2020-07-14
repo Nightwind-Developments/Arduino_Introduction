@@ -5,7 +5,7 @@
  * Author: Rowan Rathod
  * Date Created: 14 July 2020
  * 
- * Description: This code allows microcontroller to sound a buzzer everytime a button is pushed.
+ * Description: This program allows microcontroller to sound a buzzer everytime a button is pushed.
  * This source code demonstrates the use of:
  *  * digitalRead();
  *  * digitalWrite();
