@@ -1,4 +1,4 @@
-/**
+/*
  * Nightwind Developments Arduino Introduction
  * Activity 2: Button & Buzzer
  * 
@@ -11,7 +11,7 @@
  *  * digitalWrite();
  *  * Serial.print();
  * 
- * This code is released under the Creative Commons Zero v1.0 Universal License
+ * License: Creative Commons Zero v1.0 Universal License
  * More information can be viewed here: https://github.com/Nightwind-Developments/Arduino_Introduction/blob/master/LICENSE.md
  */
 #include <Arduino.h>
