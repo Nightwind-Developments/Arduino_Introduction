@@ -1,9 +1,9 @@
 /*
  * Nightwind Developments Arduino Introduction
- * Activity 3: Reading a Potentiometer
+ * Activity 4: Adjust Something
  * 
  * Description: This program allows a microcontroller to read an analogue signal from a potentiometer, report its value via the Serial Monitor and
- * adjust an LED bulb brightness.
+ * adjust an LED bulb brightness or a small DC motor.
  * 
  * This source code demonstrates the use of:
  *  * analogRead()
