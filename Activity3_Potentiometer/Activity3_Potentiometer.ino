@@ -2,9 +2,6 @@
  * Nightwind Developments Arduino Introduction
  * Activity 3: Reading a Potentiometer
  * 
- * Author: Rowan Rathod
- * Date Created: 14 July 2020
- * 
  * Description: This program allows a microcontroller to read an analogue signal from a potentiometer, report its value via the Serial Monitor and
  * adjust an LED bulb brightness.
  * 
